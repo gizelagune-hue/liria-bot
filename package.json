@@ -1,0 +1,10 @@
+{
+  "name": "liria-bot",
+  "version": "1.0.0",
+  "description": "Meu primeiro bot de WhatsApp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
